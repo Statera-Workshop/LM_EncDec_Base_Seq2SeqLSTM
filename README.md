@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-lm_encdec_base_seq2seqlstm)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # LM_EncDec_Base_Seq2SeqLSTM
 
 Encoder-decoder translation model ported from legacy TF2 code C1 to PyTorch (cell=lstm).
